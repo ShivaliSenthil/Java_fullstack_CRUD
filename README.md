@@ -21,6 +21,9 @@ database/: Contains database schema and migration scripts.
 * H2 database
 * npm
 * Maven
+
+<img width="1599" height="361" alt="image" src="https://github.com/user-attachments/assets/d7d345aa-e209-439a-abb4-f41e95abe9b6" />
+
   
 
 
