@@ -46,6 +46,9 @@ After deletion:
 
 <img width="1919" height="567" alt="image" src="https://github.com/user-attachments/assets/7b714485-9fc6-48de-a5e3-963e354cd425" />
 
+Adding another user:
+
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/0186ae26-a5e3-47af-9e8f-90eba3eca3e5" />
 
 
 
