@@ -28,7 +28,8 @@ Registering user:
 
 After registering  multiple users:
 
-<img width="1919" height="531" alt="image" src="https://github.com/user-attachments/assets/ca2b9057-f916-4fcc-802d-8df24e7e45f1" />
+<img width="1919" height="466" alt="image" src="https://github.com/user-attachments/assets/28b19c7a-1b34-4812-bfa8-f297975abc7e" />
+
 
 Viewing a user:
 
@@ -40,11 +41,12 @@ Editing a user:
 
 After edition:
 
-<img width="1919" height="484" alt="image" src="https://github.com/user-attachments/assets/fbef09d0-61dd-4f64-bd33-a1bb5fc75d67" />
+<img width="1919" height="529" alt="image" src="https://github.com/user-attachments/assets/72b84ffd-518b-4a79-9c54-8c8b43b3bbf3" />
 
 After deletion:
 
-<img width="1919" height="567" alt="image" src="https://github.com/user-attachments/assets/7b714485-9fc6-48de-a5e3-963e354cd425" />
+<img width="1919" height="482" alt="image" src="https://github.com/user-attachments/assets/889a4bb7-410e-4da5-83d3-59e0f2844fec" />
+
 
 Adding another user:
 
